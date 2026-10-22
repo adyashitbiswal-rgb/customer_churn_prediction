@@ -1,4 +1,4 @@
-# Project 3 — Customer Churn Prediction
+# Customer Churn Prediction
 
 ## Goal
 Train a binary classification model to estimate whether a customer may churn.
